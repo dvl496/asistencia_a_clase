@@ -1,12 +1,12 @@
-\# ¿Por qué decidí estudiar ASIR?
+# ¿Por qué decidí estudiar ASIR?
 
 
 
-Decidí estudiar \*\*Administración de Sistemas Informáticos en Red (ASIR)\*\* porque quiero entender mejor cómo funcionan los ordenadores, los servidores y las redes.
+Decidí estudiar **Administración de Sistemas Informáticos en Red (ASIR)** porque quiero entender mejor cómo funcionan los ordenadores, los servidores y las redes.
 
 
 
-Me gusta aprender con la práctica. En esta actividad he creado un \*fork\* de un repositorio y lo he clonado en mi ordenador.
+Me gusta aprender con la práctica. En esta actividad he creado un *fork* de un repositorio y lo he clonado en mi ordenador.
 
 
 
@@ -14,17 +14,17 @@ Durante el ciclo quiero aprender a:
 
 
 
-\- Instalar y configurar sistemas operativos.
+- Instalar y configurar sistemas operativos.
 
-\- Administrar servidores y usuarios.
+- Administrar servidores y usuarios.
 
-\- Diseñar y mantener redes.
+- Diseñar y mantener redes.
 
-\- Hacer copias de seguridad.
+- Hacer copias de seguridad.
 
-\- Detectar y resolver problemas técnicos.
+- Detectar y resolver problemas técnicos.
 
-\- Conocer mejor la \*\*ciberseguridad\*\*.
+- Conocer mejor la **ciberseguridad**.
 
 
 
@@ -48,5 +48,5 @@ ipconfig
 
 
 
-Para conocer más sobre el ciclo, puedes consultar la \[información oficial de TodoFP](https://www.todofp.es/).
+Para conocer más sobre el ciclo, puedes consultar la [información oficial de TodoFP](https://www.todofp.es/).
 
